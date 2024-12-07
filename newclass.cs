@@ -11,7 +11,7 @@ namespace leson4
         public newclass()
         {
 
-            Console.WriteLine("Искуство и творчество");
+            Console.WriteLine("Искуство и творчество zerro");
         }
         
 
